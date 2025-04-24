@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370764856791",
+    "project_id": "myfirstapp-be4bb",
+    "storage_bucket": "myfirstapp-be4bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370764856791:android:caa096ea019b4aab0c9f92",
+        "android_client_info": {
+          "package_name": "com.myfirstapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTC-VHYLBaoMUfo2Q5G0EJtiI0Xlk66s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
